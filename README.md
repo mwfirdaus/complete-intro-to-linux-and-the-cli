@@ -6,6 +6,9 @@ Just like Windows, iOS, and Mac OS, Linux is an operating system. In fact, one o
 ## Unix
 Linux is considered a Unix-like operating system which basically means that Linux derives heavy inspiration from Unix without actually conforming to be a full Unix operating system. macOS and FreeBSD would be two more examples of a Unix-like operating system. Linux isn't directly Unix, just directly inspired by it.
 
+![image](https://user-images.githubusercontent.com/85268028/150931944-8c0d18d3-d3a1-41b1-a20d-fa1d7a0f1076.png)
+
+
 ## Why Linux
 First, it's free. Anyone can use Linux to do anything without paying anyone a dime. This is useful for college students who don't have any money but it's also critical for large businesses running thousands or tens-of-thousands of servers. It can save them millions of dollars to not have to pay for an operating system.
 
