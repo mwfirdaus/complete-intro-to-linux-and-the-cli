@@ -25,6 +25,9 @@ What you're looking at is often called a REPL, a Read Evaluate Print Loop. It's 
 
 The way a REPL works is that you send one command at a time and the shell runs the command and returns to you a result. During the course of running that one command, it may print some things out. And you can, using some rudimentary programming syntax, write a line that runs multiple times (or, another way of saying "runs multiple times" is looping.) That's it! That's whole concept of what we're going to learning today.
 
+![image](https://user-images.githubusercontent.com/85268028/150933065-382d812d-1087-4eb5-bb97-f3e8e88bf75e.png)
+
+
 ## Shells and Emulators
 The first thing we should do is get some terminology out of the way. You are using a shell right now, and that shell is almost certainly called bash.
 
